@@ -1,7 +1,7 @@
 ---
 # This workflow integrates ShiftLeft NG SAST with GitHub
 # Visit https://docs.shiftleft.io for help
-# Re-running scan for testing 72922
+# Re-running scan for testing 072922
 name: ShiftLeft
 
 on:
